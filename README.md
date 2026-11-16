@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Hafiza Laiba 👋
 
-<!--
-**hafizalaiba048/hafizalaiba048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ BSIT 2nd Semester Student | Learning Agentic AI | Quran Translation Student
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Studying:** BSIT - 2nd Semester
+🤖 **Learning:** Agentic AI & Python
+📖 **Also Learning:** Translation of Holy Quran
+🌱 **Currently Learning:** Python | Git & GitHub | AI Agents
+🎯 **Goal:** To become a Professional AI Developer, In Sha Allah
+
+---
+
+### 🛠️ My Skills
+- Python
+- Git & GitHub
+- HTML / CSS
+- Agentic AI
+
+---
+
+### 📌 My Journey
+I am a BSIT student from Sargodha, Pakistan. I am learning how to build smart AI Agents and also learning the Translation of the Holy Quran.
+
+I believe in learning a little bit every day.
+
+> "Learn, Build, Grow!"
+
+---
+
+Thanks for visiting my profile! 😊
